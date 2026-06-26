@@ -49,7 +49,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers** Big company names like AT&T and Meta and more top this list showing their commitment to this field.
 
 
-![Top Paying Roles](assets\1_top_paying_jobs.png)
+![Top Paying Roles](assets/1_top_paying_jobs.png)
 *Bar graph visualizing the top 10 salaries for Data Analysts; I had Claude generate this graph from my SQL query results.
 
 ### 2. Top Paying Data Analyst Job Skills
@@ -87,7 +87,7 @@ Here's the breakdown of the top paying skills for Data Analysts in 2023:
 - **Skill Stacking** As expected the results from this query are that a multitude of skills are required for a higher paying role in the Data Analyst field. Knowing the foundational skills is a must on a path to get into these higher paying roles. 
 
 
-![Top Paying Job Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Job Skills](assets/2_top_paying_job_skills.png)
 *Bar graph visualizing top paying skills in the Data Analyst field. 
 
 ### 3. Top Skills In Demand For Data Analysts
@@ -113,7 +113,7 @@ Here's the breakdown for the most in demand skills required for a Data Analyst r
 - **Skills** The 5 most in demand skills for a Data Analyst role is SQL, Excel, Python, Tableau, and Power Bi.
 
 
-![Top Skills In Demand](assets\3_Job_skills_demand.png)
+![Top Skills In Demand](assets/3_Job_skills_demand.png)
 *Bar graph visualizing the most demanded skills based on the total job postings. 
 
 
@@ -142,7 +142,7 @@ Here's the breakdown for the highest paying skills in the Data Analyst field:
 - **SQL Missing** The data shows the among the top 25 highest salary jobs SQL is not part of this list. This means that upon learning SQL more specialization is required in other skills to earn a higher compensated position.  
 
 
-![Top Paying Skills](assets\4_skills_by_salary.png)
+![Top Paying Skills](assets/4_skills_by_salary.png)
 *Bar graph visualizing the skills that correlate to the highest earnings. 
 
 ### 5. Optimal Skills 
@@ -177,7 +177,7 @@ Here's the breakdown for the optimal skills in the Data Analyst field:
 This is because it is a foundational stepping stone skill to be able to qualify for Data Analytics. 
 - **The Stack** Python + Tableau + SQL are the top 3 most demanded skills that correspond to highest paid among foundational skills. This is the foundational stack to get into Data Analytics. 
 
-![Optimal Skills](assets\5_skills_in_demand.png)
+![Optimal Skills](assets/5_skills_in_demand.png)
 *Bar graph visualizing the skills optimal to obtaining a job among Data Analysts.  
 
 # What I Learned
